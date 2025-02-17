@@ -2,7 +2,7 @@ const CLIENT_ID =
   "624184946172-qbqhl2e8a8c83ho6hmsmkoerpfslpi97.apps.googleusercontent.com";
 const CLIENT_SECRET = "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"; // DO NOT expose this publicly
 const API_KEY = "AIzaSyA3NsZQbkonBdQXIL9GLd0duQf_a6ukAL4";
-const redirect_uri = "https://chatapp-2065.tiiny.site/oauthcallback"; // Redirect URI from Google OAuth
+const redirect_uri = "https://youtubelivebot.netlify.app/oauth2callback"; // Redirect URI from Google OAuth
 
 let authToken;
 
